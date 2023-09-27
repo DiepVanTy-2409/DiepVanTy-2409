@@ -1,4 +1,4 @@
-![hero image](./big_image.gif) 
+<img src="./big_image.gif" align="center" />
 <h1 align="center">Hi 👋, I'm Diep Van Ty</h1>
 <h3 align="center">A frontend developer from VietNam</h3>
 
